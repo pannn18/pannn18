@@ -9,8 +9,8 @@
 ### 👾 who am i?
 
 ayo, wassup 👋  
-name’s **xsaepanix**
-![School](https://img.shields.io/badge/SMK%20Telkom%20Malang-red?style=flat-square)
+name’s **xsaepanix** <br>
+From ![School](https://img.shields.io/badge/SMK%20Telkom%20Malang-red?style=flat-square)
 
 
 i’m just out here learning, vibing, and coding.  
