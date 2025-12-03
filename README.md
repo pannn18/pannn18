@@ -6,15 +6,8 @@
 
 ---
 
-### 👾 who am i?
-
 ayo, wassup 👋  
 name’s **xsaepanix** <br>
 ![School](https://img.shields.io/badge/From%20SMK%20Telkom%20Malang-red?style=flat-square)
 
 
-### 🧩 what i play with
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,mysql,git,tailwind,scss" />
-</p>
