@@ -20,3 +20,13 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,sass,mysql,git,tailwind" />
 </p>
 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xsaepanix&show_icons=true&theme=tokyonight" />
+</p>
+
+
+<p align="center">
+  🚀 always learnin’. always levelin’ up.
+</p>
+
