@@ -27,3 +27,10 @@
   🚀 always learnin’. always levelin’ up.
 </p>
 
+<br>
+
+<h2 align="center">
+  “Shut up and let me die in peace.”<br/>
+  — Mike Ehrmantraut
+</h2>
+
