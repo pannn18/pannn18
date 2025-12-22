@@ -1,13 +1,2 @@
-<h1 align="center">⚡ yo, i'm xsaepanix ⚡</h1>
-
-<p align="center">
-  <em>just a chill dev building cool stuff, one bug at a time 😮‍💨</em>
-</p>
-
----
-
-ayo, wassup 👋  
-name’s **xsaepanix** <br>
-![School](https://img.shields.io/badge/From%20SMK%20Telkom%20Malang-red?style=flat-square)
-
+# Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=635DF7&lines=I'm+Juang+Bagus+Arya+Mukti;UI/UX+Enthusiast;Creative+Developer;Continuous+Learner;Problem+Solver)](https://git.io/typing-svg)
 
