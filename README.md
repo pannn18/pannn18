@@ -11,3 +11,10 @@
     />
   </a>
 </p>
+
+
+
+<p align="center">
+  just a chill full-stack dev, yo.<br/>
+  buildin’ stuff, breakin’ bugs, fixin’ it again 😮‍💨
+</p>
