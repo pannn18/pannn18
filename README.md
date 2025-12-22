@@ -14,7 +14,9 @@
 
 
 
+<h3 align="center">🛠 Tech Stack</h3>
+
 <p align="center">
-  just a chill full-stack dev, yo.<br/>
-  buildin’ stuff, breakin’ bugs, fixin’ it again 😮‍💨
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,node,express,laravel,mysql,postgres,git,github&perline=7" />
 </p>
+
