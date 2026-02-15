@@ -23,8 +23,7 @@
 
 
 
-<p align="center">
-  🚀 always learnin’. always levelin’ up.
-</p>
+<h2 align="center">
+ 🚀 always learnin’. always levelin’ up.
+</h2>
 
-<br>
